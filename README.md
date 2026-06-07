@@ -5,7 +5,7 @@ Bash_Ping_Sweeper is a basic tool which finds connected hosts on local network 1
 <img width="756" height="456" alt="Screenshot 2026-06-04 190737" src="https://github.com/user-attachments/assets/600b7c4b-1e2c-44ce-8697-fb577ef77ebc" /><br>
 Usage :<br>
 1. Clone the repo
-2. Give file permission +x to PingSweeper.sh
+2. Give file permission +x to PingSweeper.sh<br>
     `sudo chmod +x PingSweeper.sh`
-4. Run using cmd
-    ` ./PingSweeper.sh`
+4. Run using cmd <br>
+    `./PingSweeper.sh`
